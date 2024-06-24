@@ -1,3 +1,5 @@
+compile:
+  type: torch
 experiment:
   name: env(LLAMA3_MODEL:llama-3-8b)
 input_tokenizer:
